@@ -1,0 +1,14 @@
+{
+  "autoBgmiLoader": {
+    "apkUrl": "https://bgminews.online/Bgmi-Loader-Auto.apk",
+    "version": "4.1",
+    "name": "Auto BGMI Loader",
+    "packageName": "com.bgmi.loader.auto"
+  },
+  "imguiBgmiLoader": {
+    "apkUrl": "https://bgminews.online/Bgmi-Loader-Imgui.apk",
+    "version": "4.1",
+    "name": "ImGui BGMI Loader",
+    "packageName": "com.bgmi.loader.imgui"
+  }
+}
