@@ -5,7 +5,7 @@
   "versions": [
     {
       "name": "Auto BGMi-Loader",
-      "version": "1.2",
+      "version": "1.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
       "enabled": true
@@ -18,11 +18,11 @@
       "enabled": true
     },
     {
-      "name": "Plugin name3",
-      "version": "1.21",
+      "name": "ImGui BGMi-GS",
+      "version": "1.0",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_Canvas.apk",
-      "enabled": "flase"
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_IMGUI.apk",
+      "enabled": true
     }
   ]
 }
