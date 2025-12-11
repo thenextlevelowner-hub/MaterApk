@@ -7,22 +7,22 @@
       "name": "Auto BGMi-Loader",
       "version": "2.0",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Canv.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/canvv.apk",
       "enabled": true
     },
     {
       "name": "ImGui BGMi-Loader",
       "version": "2.0",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/imgu.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/imgg.apk",
       "enabled": true
     },
     {
-      "name": "HUD BGMi-Loader",
+      "name": "BGMi-Loader Premium",
       "version": "1.0",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_IMGUI.apk",
-      "enabled": false
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/GS.apk",
+      "enabled": true
     }
   ]
 }
