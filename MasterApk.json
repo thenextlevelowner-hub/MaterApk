@@ -7,14 +7,14 @@
       "name": "Auto BGMi-Loader",
       "version": "2.0",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/canvv.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
       "enabled": true
     },
     {
       "name": "ImGui BGMi-Loader",
       "version": "2.0",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/imgg.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
       "enabled": true
     },
     {
