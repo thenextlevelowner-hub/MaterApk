@@ -4,25 +4,25 @@
   "stub_version": "2.0",
   "versions": [
     {
-      "name": "❌not available available soon❌",
-      "version": "2.1",
+      "name": "auto-ui Bgmi Loader",
+      "version": "2.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
-      "enabled": off
+      "enabled": true
     },
     {
-      "name": "testing BGMi-Loader",
+      "name": "testing imgui-uiBGMi-Loader",
       "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
       "enabled": true
     },
     {
-      "name": "❌not available available soon❌",
-      "version": "2.1",
+      "name": "bgmi Loader Premium",
+      "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/GSGS.apk",
-      "enabled": off
+      "enabled": true
     }
   ]
 }
