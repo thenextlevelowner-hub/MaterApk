@@ -11,7 +11,7 @@
       "enabled": true
     },
     {
-      "name": "testing imgui-uiBGMi-Loader",
+      "name": "testing imgui-ui BGMi-Loader",
       "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
