@@ -29,7 +29,7 @@
       "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/auto.apk",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
