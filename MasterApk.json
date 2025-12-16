@@ -1,32 +1,32 @@
 {
   "name": "BGMi-Loader WD",
   "announcement": "Welcome to BGMi-Loader! Select a plugin to download.",
-  "stub_version": "2.0",
+  "stub_version": "2.1",
   "versions": [
     {
       "name": "HIDE ESP BGMI-LOADER",
-      "version": "2.0",
+      "version": "2.1",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas_2_1.apk",
       "enabled": true
     },
     {
       "name": "IMGUI-UI BGMI-LOADER",
-      "version": "2.0",
+      "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui_2_1.apk",
       "enabled": true
     },
     {
       "name": "HIDE ESP bgmi Loader ",
-      "version": "2.0",
+      "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi_2_1.apk",
       "enabled": false
     },
     {
       "name": "FULL AUTO BGMI-LOADER",
-      "version": "2.0",
+      "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto_2_1.apk",
       "enabled": true
