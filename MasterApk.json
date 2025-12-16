@@ -4,14 +4,14 @@
   "stub_version": "2.0",
   "versions": [
     {
-      "name": "hide esp imgui Bgmi Loader",
+      "name": "FULL AUTO BGMI-LOADER",
       "version": "2.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas1.apk",
       "enabled": true
     },
     {
-      "name": "imgui-ui BGMi-Loader",
+      "name": "IMGUI-UI BGMI-LOADER",
       "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
@@ -25,7 +25,7 @@
       "enabled": false
     },
     {
-      "name": "full auto bgmi Loader ",
+      "name": "HIDE ESP BGMI-LOADER",
       "version": "2.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/auto.apk",
