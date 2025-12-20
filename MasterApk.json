@@ -21,7 +21,7 @@
       "name": "HIDE ESP bgmi Loader ",
       "version": "2.1",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi_2_1.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi.so_2.1_GS.apk",
       "enabled": false
     },
     {
