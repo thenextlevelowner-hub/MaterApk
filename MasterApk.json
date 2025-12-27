@@ -8,7 +8,7 @@
       "version": "2.1",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_libbgmi.so_2.1.apk",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " BGMI-LOADER",
@@ -22,7 +22,7 @@
       "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_libbgmi.so_2.1.apk",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": " AUTO BGMI-LOADER",
