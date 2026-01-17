@@ -11,14 +11,14 @@
       "enabled": false
     },
     {
-      "name": " AUTO 4.2 BETA VERSION",
+      "name": " AUTO BGMI LOADER",
       "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_libbgmi.so_2.1.apk",
       "enabled": true 
     },
     {
-      "name": "IMGUI 4.2 BETA VERSION ",
+      "name": "HIDE-ESP IN IMGUI BGMI LOADER",
       "version": "2.1",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas_2_1.apk",
