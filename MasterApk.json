@@ -8,17 +8,17 @@
       "version": "2.3",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
-      "enabled": true
+      "enabled": falac
     },
     {
-      "name": " 2 BGMI LOADER",
+      "name": " IMGUI HIDE ESP BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libbgmiimgui.apk",
       "enabled": true 
     },
     {
-      "name": "3 BGMI LOADER",
+      "name": "AUTO BT&AIM BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libauto.so.apk",
@@ -29,7 +29,7 @@
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libbgmi.apk",
-      "enabled": true 
+      "enabled": falac
     }
   ]
 }
