@@ -21,11 +21,11 @@
       "name": "HIDE-ESP IN IMGUI BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libbgmicanvas.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
       "enabled": true
     },
     {
-      "name": " AUTO BT & AIM BGMI-LOADER",
+      "name": " AUTO BT&AIM BGMI-LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libbgmi.apk",
