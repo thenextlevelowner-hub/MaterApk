@@ -5,30 +5,30 @@
   "versions": [
     {
       "name": "HIDE ESP BGMI-LOADER",
-      "version": "2.1",
+      "version": "2.3",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_libbgmi.so_2.1.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
       "enabled": false
     },
     {
       "name": " AUTO BGMI LOADER",
-      "version": "2.2",
+      "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_2.2_libbgmi.so.apk",
-      "enabled": false 
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
+      "enabled": true 
     },
     {
       "name": "HIDE-ESP IN IMGUI BGMI LOADER",
-      "version": "2.2",
+      "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_2.2_check.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi.apk",
       "enabled": true
     },
     {
       "name": " AUTO BT & AIM BGMI-LOADER",
-      "version": "2.1",
+      "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto_2_1.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto.so.apk",
       "enabled": false
     }
   ]
