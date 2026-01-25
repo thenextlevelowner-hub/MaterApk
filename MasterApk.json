@@ -22,7 +22,7 @@
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto.so.apk",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": " 4 BGMI-LOADER",
