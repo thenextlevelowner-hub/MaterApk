@@ -14,14 +14,14 @@
       "name": " IMGUI HIDE ESP BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.so_2.3.apk",
       "enabled": true 
     },
     {
       "name": "AUTO BT&AIM BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto.so.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto.so_2.3.apk",
       "enabled": true
     },
     {
