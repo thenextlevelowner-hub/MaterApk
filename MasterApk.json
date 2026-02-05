@@ -7,28 +7,28 @@
       "name": "IMGUI BGMI-LOADER",
       "version": "2.3",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas.apk",
-      "enabled": true
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmicanvas_3.0.apk",
+      "enabled": false
     },
     {
       "name": " AUTO SAFE AIM BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui.so_2.3.apk",
-      "enabled": true
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmiimgui.so_3.0.apk",
+      "enabled": false
     },
     {
       "name": "AUTO BRUTAL AIM BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto.so_2.3.apk",
-      "enabled": true
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
+      "enabled": false
     },
     {
       "name": " 4 BGMI-LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/blob/main/libbgmi.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmi.so_3.0.apk",
       "enabled": false
     }
   ]
