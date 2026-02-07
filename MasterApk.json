@@ -4,10 +4,10 @@
   "stub_version": "2.1",
   "versions": [
     {
-      "name": "IMGUI BGMI-LOADER",
+      "name": "AUTO HIDE-ESP BT-AIM BGMI-LOADER",
       "version": "2.3",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmicanvas_3.0.apk",
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_BBF_3.0.apk",
       "enabled": false
     },
     {
@@ -18,7 +18,7 @@
       "enabled": false
     },
     {
-      "name": "AUTO BRUTAL AIM BGMI LOADER",
+      "name": "AUTO BT + AIM BGMI LOADER",
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
