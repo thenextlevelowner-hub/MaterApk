@@ -8,7 +8,7 @@
       "version": "2.3",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_BBF_3.0.apk",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " AUTO SAFE AIM BGMI LOADER",
@@ -22,7 +22,7 @@
       "version": "2.3",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " 4 BGMI-LOADER",
