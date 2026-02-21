@@ -11,21 +11,21 @@
       "enabled": true
     },
     {
-      "name": " AUTO BRUTAL-BGMI LOADER",
+      "name": " JAVA BGMI LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmiimgui.so_3.0.apk",
-      "enabled": false
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/BgmiLoader_JavaPaglu_sign.apk",
+      "enabled": true
     },
     {
-      "name": "AUTO BT + AIM BGMI LOADER",
+      "name": "AUTO BRUTAL BGMI LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
-      "enabled": false
+      "enabled": true
     },
     {
-      "name": " AUTO BGMI-LOADER",
+      "name": " AUTO SAFE  BGMI-LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmi.so_3.0.apk",
