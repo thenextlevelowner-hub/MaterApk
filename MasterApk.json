@@ -30,6 +30,13 @@
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmi.so_3.0.apk",
       "enabled": true
+    },
+    {
+      "name": "TOTAL-CHEAT",
+      "version": "3.0",
+        "package_name": "com.pubgm", 
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_litotal.so_3.0.apk",
+      "enabled": false
     }
   ]
 }
