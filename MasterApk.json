@@ -8,17 +8,17 @@
       "version": "3.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_3.0_Permisson.apk",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": " JAVA BGMI LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/BgmiLoader_JavaPaglu_sign.apk",
-      "enabled": true
+      "enabled": false
     },
     {
-      "name": "AUTO BRUTAL BGMI LOADER",
+      "name": "AUTO BT + AIM BGMI LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
@@ -29,7 +29,7 @@
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmi.so_3.0.apk",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "TOTAL-CHEAT",
