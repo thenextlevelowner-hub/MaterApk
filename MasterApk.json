@@ -7,8 +7,8 @@
       "name": "IMGUI SAFE BGMI-LOADER",
       "version": "3.0",
       "package_name": "com.pubgm", 
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/Bgmi-Loader_3.0_Permisson.apk",
-      "enabled": false
+      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmiimgui.so_3.0.apk",
+      "enabled": true
     },
     {
       "name": " JAVA BGMI LOADER",
