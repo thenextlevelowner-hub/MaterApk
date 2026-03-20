@@ -4,11 +4,11 @@
   "stub_version": "2.1",
   "versions": [
     {
-      "name": "IMGUI SAFE BGMI-LOADER",
+      "name": "IMGUI 4.3 BGMI-LOADER",
       "version": "3.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmiimgui.so_3.0.apk",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " JAVA BGMI LOADER",
@@ -18,11 +18,11 @@
       "enabled": false
     },
     {
-      "name": "AUTO BT + AIM BGMI LOADER",
+      "name": "AUTO 4.3 BGMI LOADER",
       "version": "3.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": " AUTO SAFE  BGMI-LOADER",
