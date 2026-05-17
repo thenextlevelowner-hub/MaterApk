@@ -5,35 +5,35 @@
   "versions": [
     {
       "name": "IMGUI 4.3 BGMI-LOADER",
-      "version": "3.0",
+      "version": "1.0",
       "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmiimgui.so_3.0.apk",
       "enabled": true
     },
     {
       "name": " JAVA BGMI LOADER",
-      "version": "3.0",
+      "version": "1.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/BgmiLoader_JavaPaglu_sign.apk",
       "enabled": false
     },
     {
       "name": "AUTO 4.3 BGMI LOADER",
-      "version": "3.0",
+      "version": "1.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libauto.so_3.0.apk",
       "enabled": true
     },
     {
       "name": " AUTO SAFE  BGMI-LOADER",
-      "version": "3.0",
+      "version": "1.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_libbgmi.so_3.0.apk",
       "enabled": false
     },
     {
       "name": "TOTAL-CHEAT",
-      "version": "3.0",
+      "version": "1.0",
         "package_name": "com.pubgm", 
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/_litotal.so_3.0.apk",
       "enabled": false
